@@ -1,6 +1,5 @@
 ![hello!](https://github.com/desolaterobot/desolaterobot/assets/74480017/3bf46139-413e-48a8-8ee9-6a7ed9225226)
-# hi, dimas here.
-#### Check out my projects below ✍️(◔◡◔)
+W# Check out my projects below ✍️(◔◡◔)
 
 ## Flutter
 #### ⏲ [Pomodoro Timer](https://desolaterobot.github.io/pomodoro/#/) *(Web, Windows, Android)*
