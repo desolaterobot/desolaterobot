@@ -1,6 +1,7 @@
 <h1 align="center">Hello, Dimas here.</h1>
-<h3 align="center">Check out my projects below (❁´◡`❁)![ClipWindowsGIF](https://github.com/desolaterobot/desolaterobot/assets/74480017/b867ea42-f80c-4951-8e3a-d53f7a8d2077)
-</h3>
+<h3 align="center">Check out my projects below ✍️(◔◡◔)</h3>
+
+![ClipWindowsGIF](https://github.com/desolaterobot/desolaterobot/assets/74480017/b867ea42-f80c-4951-8e3a-d53f7a8d2077)
 
 ## Flutter
 #### ⏲ [Pomodoro Timer](https://desolaterobot.github.io/pomodoro/#/) *(Web, Windows, Android)*
