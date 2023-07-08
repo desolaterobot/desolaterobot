@@ -1,4 +1,4 @@
-<h1 align="center">Hello.</h1>
+<h1 align="center">Hello it's Dimas</h1>
 <h3 align="center">Check out my projects!</h3>
 
 ## Flutter
@@ -10,4 +10,4 @@
 
 ## Python
 #### 🔐 [encr: file encryption tool](https://github.com/desolaterobot/encr) *(Windows)*
-#### 📝 [scarab: command line encrypted notetaking](https://github.com/desolaterobot/encr) *(Windows)*
+#### 📝 [scarab: command line encrypted notetaking](https://github.com/desolaterobot/scarab) *(Windows)*
