@@ -1,11 +1,12 @@
 # Hi there 👋 Try out some of my projects!
 
 ## Flutter
-#### ⏲ [Pomodoro Timer](https://desolaterobot.github.io/pomodoro/#/) *(Flutter, Dart -> Web, Windows, Android)*
-#### 💸 [Subscription Tracker App](https://play.google.com/store/apps/details?id=com.desolate.substracker) *(Flutter, Dart -> Android)*
+#### ⏲ [Pomodoro Timer](https://desolaterobot.github.io/pomodoro/#/) *(Web, Windows, Android)*
+#### 💸 [Subscription Tracker App](https://play.google.com/store/apps/details?id=com.desolate.substracker) *(Android)*
 
 ## Unity
-#### 🕹 [Eternal Grid: a Top-down Endless Shooter](http://desolaterobot.itch.io/eternal-grid) *(Unity, C# -> Windows)*
+#### 🕹 [Eternal Grid: a Top-down Endless Shooter](http://desolaterobot.itch.io/eternal-grid) *(Windows)*
 
 ## Python
-#### 🔐 [File Encryption Tool](https://github.com/desolaterobot/encr) *(Python -> Windows)*
+#### 🔐 [encr: file encryption tool](https://github.com/desolaterobot/encr) *(Windows)*
+#### 📝 [scarab: command line encrypted notetaking](https://github.com/desolaterobot/encr) *(Windows)*
