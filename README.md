@@ -1,4 +1,5 @@
-# Hi there 👋 Try out some of my projects!
+<h1 align="center">Hi 👋, I'm DIMAS RIZKY</h1>
+<h3 align="center">Check out my projects!</h3>
 
 ## Flutter
 #### ⏲ [Pomodoro Timer](https://desolaterobot.github.io/pomodoro/#/) *(Web, Windows, Android)*
