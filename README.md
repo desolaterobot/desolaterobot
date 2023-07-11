@@ -3,7 +3,7 @@
 </p> 
 
 <h3 align="center"><b>
-Check out my projects below (◔◡◔)
+Check out my projects below (*^_^*)
 </b></h3>
 
 ### Flutter
@@ -16,3 +16,9 @@ Check out my projects below (◔◡◔)
 ### Python
 #### 🔐 [encr: file encryption tool](https://github.com/desolaterobot/encr)
 #### 📝 [scarab: text-based encrypted notetaking](https://github.com/desolaterobot/scarab)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desolaterobot&show_icons=true&locale=en&layout=compact" alt="desolaterobot" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desolaterobot&show_icons=true&locale=en" alt="desolaterobot" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desolaterobot&" alt="desolaterobot" /></p>
