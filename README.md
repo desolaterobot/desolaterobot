@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <img src="eternalGridIcon.png" alt="Eternal Grid: Top-down shooter made in Unity" width='100' height='100' style="flex: 1; margin: 5px;">
-  Some text
+  <div style="font-size: 18px;">Some larger text describing the image.</div>
 </div>
 <img src="thothlogo.png" alt="ThothCrypt: folder encryption in Python" width='100' height='100' style="flex: 1; margin: 5px;">
 <img src="icon.png" alt="Subscription Tracker app in Flutter" width='100' height='100' style="flex: 1; margin: 5px;">
