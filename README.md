@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img width="150" height="150" src="eternalGridIcon.png" alt="Hello!"> 
+    <img width="200" height="200" src="eternalGridIcon.png" alt="Hello!"> 
 </p> 
 
 <h3 align="center"><b>
