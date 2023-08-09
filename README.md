@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="thothLogo.png" alt="ThothCrypt" width="150" height="150">
-<p align="center">
-<p align="center">
-  <img src="icon.png" alt="ThothCrypt" width="150" height="150">
-<p align="center">
-<p align="center">
-  <img src="thothLogo.png" alt="ThothCrypt" width="150" height="150">
-<p align="center">
+<div style="display: flex;">
+  <img src="eternalGridIcon.png" alt="Eternal Grid: Top-down shooter made in Unity" style="flex: 1; margin: 5px;">
+  <img src="thothlogo.png" alt="ThothCrypt: folder encryption in Python" style="flex: 1; margin: 5px;">
+  <img src="icon.jpg" alt="Subscription Tracker app in Flutter" style="flex: 1; margin: 5px;">
+</div>
 
 <p align="center"> 
     <img width="150" height="150" src="https://github.com/desolaterobot/desolaterobot/assets/74480017/3bf46139-413e-48a8-8ee9-6a7ed9225226" alt="Hello!"> 
