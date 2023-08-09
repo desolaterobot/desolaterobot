@@ -14,7 +14,7 @@ Check out my projects below (*^_^*)
 #### 🕹 [Eternal Grid: a Top-down Endless Shooter](http://desolaterobot.itch.io/eternal-grid)
 
 ## Python
-#### 🔐 [encr: file encryption tool](https://github.com/desolaterobot/encr)
+#### 🔐 [ThothCrypt: file encryption tool](https://github.com/desolaterobot/thoth)
 #### 📝 [scarab: text-based encrypted notetaking](https://github.com/desolaterobot/scarab)
 
 ## C
