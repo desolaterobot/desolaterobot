@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <img src="eternalGridIcon.png" alt="Eternal Grid: Top-down shooter made in Unity" width='100' height='100' style="flex: 1; margin: 5px;">
-  <h3>Eternal Grid</h3>
+  <h3 style="flex: 1; margin: 5px;">Eternal Grid</h3>
 </div>
 <img src="thothlogo.png" alt="ThothCrypt: folder encryption in Python" width='100' height='100' style="flex: 1; margin: 5px;">
 <img src="icon.png" alt="Subscription Tracker app in Flutter" width='100' height='100' style="flex: 1; margin: 5px;">
