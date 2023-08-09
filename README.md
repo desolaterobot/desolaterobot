@@ -1,7 +1,7 @@
 <div style="display: flex;">
-  <img src="eternalGridIcon.png" alt="Eternal Grid: Top-down shooter made in Unity" style="flex: 1; margin: 5px;">
-  <img src="thothlogo.png" alt="ThothCrypt: folder encryption in Python" style="flex: 1; margin: 5px;">
-  <img src="icon.jpg" alt="Subscription Tracker app in Flutter" style="flex: 1; margin: 5px;">
+  <img src="eternalGridIcon.png" alt="Eternal Grid: Top-down shooter made in Unity" width='100' height='100' style="flex: 1; margin: 5px;">
+  <img src="thothlogo.png" alt="ThothCrypt: folder encryption in Python" width='100' height='100' style="flex: 1; margin: 5px;">
+  <img src="icon.png" alt="Subscription Tracker app in Flutter" width='100' height='100' style="flex: 1; margin: 5px;">
 </div>
 
 <p align="center"> 
