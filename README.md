@@ -10,8 +10,6 @@ Check out my projects below (*^_^*)
 Want to <a href="https://desolaterobot.github.io/aboutme">know more about me?</a>
 </h3>
 
-## Want to [know more about me?](https://desolaterobot.github.io/aboutme)
-
 ## Flutter
 #### ⏲ [Pomodoro Timer](https://desolaterobot.github.io/pomodoro/#/)
 #### 💸 [Subscription Tracker App](https://play.google.com/store/apps/details?id=com.desolate.substracker)
