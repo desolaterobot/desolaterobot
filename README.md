@@ -5,9 +5,7 @@
 <h3 align="center"><b>
 Check out my projects below (*^_^*)
 </b></h3>
-<h3 align="center">
-Want to [know more about me?](https://desolaterobot.github.io/aboutme)
-</h3>
+## Want to [know more about me?](https://desolaterobot.github.io/aboutme)
 
 ## Flutter
 #### ⏲ [Pomodoro Timer](https://desolaterobot.github.io/pomodoro/#/)
