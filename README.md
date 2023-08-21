@@ -6,6 +6,10 @@
 Check out my projects below (*^_^*)
 </b></h3>
 
+<h3 align="center">
+Want to <a href="https://desolaterobot.github.io/aboutme">know more about me?</a>
+</h3>
+
 ## Want to [know more about me?](https://desolaterobot.github.io/aboutme)
 
 ## Flutter
