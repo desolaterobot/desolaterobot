@@ -10,7 +10,7 @@ Check out my projects below (*^_^*)
 Want to <a href="https://desolaterobot.github.io/aboutme">know more about me?</a>
 </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desolaterobot&show_icons=true&locale=en&layout=compact" alt="desolaterobot" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=desolaterobot&show_icons=true&locale=en&layout=compact" alt="desolaterobot" /></p>
 
 ## Flutter
 #### ⏲ [Pomodoro Timer](https://desolaterobot.github.io/pomodoro/#/)
