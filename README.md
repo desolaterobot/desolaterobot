@@ -15,7 +15,7 @@ Want to <a href="https://desolaterobot.github.io/aboutme">know more about me?</a
 </p>
 
 ## Flutter
-#### ⏲ [Pomodoro Timer](https://notdesolaterobot.github.io/pomodoro/#/)
+#### ⏲ [Pomodoro Timer](https://notsodesolaterobot.github.io/pomodoro/#/)
 #### 💸 [Subscription Tracker Android App](https://play.google.com/store/apps/details?id=com.desolate.substracker)
 
 ## Unity
