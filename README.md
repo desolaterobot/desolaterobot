@@ -11,7 +11,7 @@ Want to <a href="https://desolaterobot.github.io/aboutme">know more about me?</a
 </h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desolaterobot&exclude_repo=eternal-grid,carparkviewer&show_icons=true&locale=en&layout=compact&langs_count=10" alt="desolaterobot" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desolaterobot&exclude_repo=carparkviewer&show_icons=true&locale=en&layout=compact&langs_count=10" alt="desolaterobot" />
 </p>
 
 ## Flutter
