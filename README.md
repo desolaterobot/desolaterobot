@@ -1,6 +1,10 @@
+## Hi! Make yourself at home.
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desolaterobot&exclude_repo=carparkviewer&show_icons=true&locale=en&layout=compact&langs_count=10" alt="desolaterobot" />
 </p>
+
+# My Most Notable Projects
 
 ## Flutter
 #### ⏲ [Pomodoro Timer](https://notsodesolaterobot.github.io/pomodoro/#/)
@@ -11,8 +15,3 @@
 
 ## Python
 #### 🔐 [ThothCrypt: File Encryption Tool](https://github.com/desolaterobot/thoth)
-#### 📝 [Scarab: text-based encrypted notetaking](https://github.com/desolaterobot/scarab)
-
-## C
-#### 📁 [blkr: file renaming tool](https://github.com/desolaterobot/blkr)
-#### 🧾 [readlines: read the number of lines in a  directory](https://github.com/desolaterobot/readlines)
