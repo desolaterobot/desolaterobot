@@ -3,7 +3,7 @@
 </p>
 
 # Hi! Make yourself at home.
-#### NTU Computer Engineering student, coding for fun mostly.
+NTU Computer Engineering student, coding for fun mostly.
 
 # My Most Notable Projects
 
