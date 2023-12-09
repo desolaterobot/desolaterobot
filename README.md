@@ -1,4 +1,4 @@
-## NTU Computer Engineering student, coding for fun mostly.
+# NTU Computer Engineering student, coding for fun mostly.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=desolaterobot&exclude_repo=carparkviewer&show_icons=true&locale=en&layout=compact&langs_count=10" alt="desolaterobot" />
