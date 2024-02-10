@@ -1,7 +1,7 @@
 # NTU Computer Engineering student, coding for fun mostly.
 
 <p align="center">
-    <img src="https://github.com/desolaterobot/desolaterobot/assets/74480017/6e53cccf-96f9-44bb-956d-3c7206abe415" alt="hello again." width = "100"/>
+    <img src="https://github.com/desolaterobot/desolaterobot/assets/74480017/6e53cccf-96f9-44bb-956d-3c7206abe415" alt="hello again." width = "400"/>
 </p>
 
 # My Most Notable Projects
