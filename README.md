@@ -9,6 +9,10 @@
     <p>Text beside the image goes here.</p>
 </div>
 
+<img style="float: right;" src="whatever.jpg">
+
+Continue markdown text...
+
 # My Most Notable Projects
 
 ## Flutter, Dart
