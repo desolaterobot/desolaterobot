@@ -18,7 +18,7 @@
 # My Most Notable Projects
 
 ## Flutter, Dart
-#### ⏲ [Pomodoro Timer Web App](https://notsodesolaterobot.github.io/pomodoro/#/)
+#### ⏲ [Pomodoro Timer Web App](https://notsodesolaterobot.github.io/pomodoro/#/) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 #### 💸 [Subscription Tracker Android App](https://play.google.com/store/apps/details?id=com.desolate.substracker)
 
 ## Unity, C#
