@@ -17,15 +17,14 @@
 
 # My Most Notable Projects
 
-# ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+## ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 #### ⏲ [Pomodoro Timer Web App](https://notsodesolaterobot.github.io/pomodoro/#/)
 #### 💸 [Subscription Tracker Android App](https://play.google.com/store/apps/details?id=com.desolate.substracker)
 
-## Unity, C#
+## ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 #### 🕹 [Eternal Grid: a Top-down Arcade Shooter Game](http://desolaterobot.itch.io/eternal-grid)
 
-## Python
+## ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 #### 🔐 [ThothCrypt: File Encryption Tool](https://github.com/desolaterobot/thoth)
 #### 📂 [Darlene: Directory Sorter By Size](https://github.com/desolaterobot/darlene)
 
