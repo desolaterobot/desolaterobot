@@ -9,7 +9,7 @@
     <p>Text beside the image goes here.</p>
 </div>
 
-<img style="float: right;" src="whatever.jpg">
+<img style="float: right;" src="https://github.com/desolaterobot/desolaterobot/assets/74480017/6e53cccf-96f9-44bb-956d-3c7206abe415">
 
 Continue markdown text...
 
