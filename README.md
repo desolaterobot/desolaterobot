@@ -4,6 +4,11 @@
     <img src="https://github.com/desolaterobot/desolaterobot/assets/74480017/6e53cccf-96f9-44bb-956d-3c7206abe415" alt="hello again." width = "400"/>
 </p>
 
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/desolaterobot/desolaterobot/assets/74480017/6e53cccf-96f9-44bb-956d-3c7206abe415" alt="hello again" width="400" >
+    <p>Text beside the image goes here.</p>
+</div>
+
 # My Most Notable Projects
 
 ## Flutter, Dart
