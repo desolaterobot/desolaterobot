@@ -29,5 +29,6 @@
 #### 📂 [Darlene: Directory Sorter By Size](https://github.com/desolaterobot/darlene)
 
 # Hackathons!
-#### Techfest Hackathon 2023 Team 49: [Carpark JSON Viewer](https://github.com/desolaterobot/carparkviewer) (Unity, C#)
-#### Techfest Hackathon 2024 Team 56: [WhereDat](https://github.com/desolaterobot/wheredat), Travel Planner Powered By Gemini (Flutter, Dart, Gemini API)
+#### Techfest 2023 Team 49: [Carpark JSON Viewer](https://github.com/desolaterobot/carparkviewer) (Unity, C#)
+#### Techfest 2024 Team 56: [WhereDat](https://github.com/desolaterobot/wheredat), Travel Planner Powered By Gemini (Flutter, Dart, Gemini API)
+#### SimplifyNext Agentic AI 2025 Team BERNHARD'S APPRENTICES (Semi-Finalist): [Research Assistant](https://github.com/desolaterobot/bernhard), Agentic AI Research Assistant (AWS Bedrock, Strands Agents, Streamlit, ChromaDB)
